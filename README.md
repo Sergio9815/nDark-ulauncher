@@ -1,6 +1,6 @@
 # nDark Theme
 
-![img](https://github.com/Sergio9815/nDark-ulauncher/blob/master/previewI.png)
+![img](https://github.com/Sergio9815/nDark-ulauncher/blob/main/previewI.png)
 
 A dark and minimal theme for [Ulauncher](https://ulauncher.io/). 
 
