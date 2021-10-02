@@ -1,4 +1,4 @@
-# Kira dark Theme
+# nDark Theme
 
 ![img](https://github.com/Sergio9815/nDark-ulauncher/blob/master/previewI.png)
 
